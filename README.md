@@ -40,16 +40,30 @@ Set your own `settings.json` you can mount a folder with such file into `/worksp
 docker run --rm -it -v $PWD/config:/workspace klabbet/signalr-emulator
 ```
 
-## Connect a listener
+## Example
+
+There is an example application in the corresponding repository.
+
+https://github.com/klabbet/signalr-emulator/tree/main/example
 
 # Related Repos
 
+This code is managed here
+
+https://github.com/klabbet/signalr-emulator
+
 # Full Tag Listing
+
+- `1.0.0-preview1-10809`
 
 # Support
 
-# Feedback
+File an issue on Github
 
-- File an issue
+https://github.com/klabbet/signalr-emulator/issues
 
 # License
+
+LICENSE file on github
+
+https://github.com/klabbet/signalr-emulator/blob/main/LICENSE
